@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DaggerLearnKotlin</string>
+    <string name="error">Error is occured</string>
+</resources>
